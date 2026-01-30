@@ -1,0 +1,2 @@
+# Requires: obsolete-threshold
+# (Not available on PyPI)
